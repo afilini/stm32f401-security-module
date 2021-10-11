@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AP2127N3-1.5
+D 300mA low dropout linear regulator, shutdown pin, 2.5V-6V input voltage, 1.5V fixed positive output, SOT-23-3 package
+K linear regulator ldo fixed positive
+F https://www.diodes.com/assets/Datasheets/AP2127.pdf
+$ENDCMP
+#
+$CMP MCP1811A-033TT
+D 100mA Ultra-Low Quiescent Current LDO Regulator, 1.8-5.5V input voltage, 3.3V fixed positive output, SOT-23-3 package
+K linear regulator ldo fixed positive
+F https://www.mouser.it/datasheet/2/268/MCP1811A-11B-12A-12B-Family-Data-Sheet-DS20006088A-1488740.pdf
+$ENDCMP
+#
+#End Doc Library
