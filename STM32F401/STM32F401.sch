@@ -394,8 +394,8 @@ Text GLabel 3500 4150 2    50   Input ~ 0
 PA9
 Text GLabel 3500 4250 2    50   Input ~ 0
 PA10
-Text GLabel 3500 4350 2    50   Input ~ 0
-PA11
+Text GLabel 3500 4550 2    50   Input ~ 0
+PA13
 Text GLabel 3500 4650 2    50   Input ~ 0
 PA14
 Text GLabel 3500 4750 2    50   Input ~ 0
@@ -579,7 +579,7 @@ PA9
 Text GLabel 8450 2450 0    50   Input ~ 0
 PA10
 Text GLabel 8450 2600 0    50   Input ~ 0
-PA11
+PA13
 Text GLabel 8450 2750 0    50   Input ~ 0
 PA14
 Text GLabel 8450 2900 0    50   Input ~ 0
@@ -970,7 +970,7 @@ F 3 "~" H 7400 2250 50  0001 C CNN
 $EndComp
 Text GLabel 3500 4450 2    50   Input ~ 0
 CHG_EN
-Text GLabel 3500 4550 2    50   Input ~ 0
+Text GLabel 3500 4350 2    50   Input ~ 0
 CHG_STAT
 Wire Wire Line
 	8300 3500 8450 3500
